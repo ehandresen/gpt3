@@ -7,6 +7,7 @@ import {
   WhatGPT3,
   Header,
 } from './containers';
+import './App.css';
 
 const App = () => {
   return (
