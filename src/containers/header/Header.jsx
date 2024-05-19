@@ -1,7 +1,11 @@
 import './header.css';
 
 const Header = () => {
-  return <div>Header</div>;
+  return (
+    <div className="gpt3__header section__padding" id="home">
+      Header
+    </div>
+  );
 };
 
 export default Header;
